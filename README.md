@@ -1,5 +1,6 @@
 # Healing Rain
 *A positive community for gamers with disabilities, disorders, and differences.*
+
 ---
 
 ## Goal of Project:
@@ -18,11 +19,10 @@ Forum, research db with tags/labels, microposts highlighting accessible features
 There will be a comprehensive code of conduct that enforces an overall positive feel to all materials on the site that maintains a standard of language that is free from any form of discrimination (including but not limited to: disability, mental health, race, nationality, religion, gender identity, sexual orientation, socioeconomic status, body size, and physical appearance).
 
 ## What We Are Not:
-What We Are NOT:
 This is not a space to rant about how inaccessible games are, how poorly you are treated by gamebros, or to rate games. There are lots of other outlets for that and this is NOT one of them.
 
 ## What We Need:
 Developers, logo/mascot design, accessibility experts, research experts, forum moderators, idea people. Every little thing counts.
 
 ## How You Can Help:
-Ping [@sinthetix on Twitter](http://twitter.com/sinthetix) to share your ideas or [donate to help](http://gittip.com/sinthetix) the project through Gittip.. 
+Ping [@sinthetix on Twitter](http://twitter.com/sinthetix) to share your ideas or [donate to help](http://gittip.com/sinthetix) the project through Gittip.
