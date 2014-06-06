@@ -16,7 +16,7 @@ We aim to deliver positive, accessible information to help improve the gaming ex
 Forum, research db with tags/labels, microposts highlighting accessible features in games, featuring positive articles about gaming/benefits/inclusiveness, advocacy campaigns, summarizing research for non-scientists, listing companies/conferences/charities trying to make a difference, member twitch streams
 
 ## Code of Conduct:
-There will be a comprehensive code of conduct that enforces an overall positive feel to all materials on the site that maintains a standard of language that is free from any form of discrimination (including but not limited to: disability, mental health, race, nationality, religion, gender identity, sexual orientation, socioeconomic status, body size, and physical appearance). Harassment and bullying will not be targeted.
+There will be a comprehensive code of conduct that enforces an overall positive feel to all materials on the site that maintains a standard of language that is free from any form of discrimination (including but not limited to: disability, mental health, race, nationality, religion, gender identity, sexual orientation, socioeconomic status, body size, and physical appearance). Harassment and bullying will not be tolerated.
 
 ## What We Are Not:
 This is not a space to rant about how inaccessible games are, how poorly you are treated by gamebros, spew hate, or to rate games. There are lots of other outlets for that and this is NOT one of them.
